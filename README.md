@@ -7,3 +7,6 @@ But in states like TN the number of active cases are still rising up and the day
 Tableau public - https://lnkd.in/eajwTX6
 
 PS - The major learning from this dashboard was to utilize and play with different containers and tell a story in a more efficient way with the color coding for various numbers and graphs(used advance features like LOD, calculated field,sets etc for calculations).
+
+
+![Screenshot (154)](https://user-images.githubusercontent.com/47153425/87227379-898dad00-c368-11ea-947f-efb56aff7e0e.png)
